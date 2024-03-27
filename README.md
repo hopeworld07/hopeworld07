@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yamini
 #### I am a Game Developer
-![I am a Game Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Game Developer]
 
 I'm Yamini. I do Game Development and 3D modeling. I enjoy working on all kinds of projects and learning along the way. I also enjoy UI UX, Graphic design, and creative content writing in general. 
 
