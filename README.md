@@ -2,7 +2,7 @@
 #### I am a Game Developer
 
 
-I'm Yamini. I do Game Development and 3D modeling. I enjoy working on all kinds of projects and learning along the way. I also enjoy UI UX, Graphic design, and creative content writing in general. 
+I'm Yamini. I do Game Development and 3D modeling. I enjoy working on all kinds of projects and learning along the way. I also enjoy RPA and creative content writing in general. 
 
 My current obsession is with physics engines in Game Development. I am creating a 2D physics engine with C# and testing it with Monogame. I am very intrigued by how we make realistic simulations and tweak them according to demand. 
 
